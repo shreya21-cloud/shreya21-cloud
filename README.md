@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sharmashreyaa21@gmail.com**
 
-- 📄 Know about my experiences [Volunteering in tech events.](Volunteering in tech events.)
+- 📄 Know about my experiences (Volunteering in tech events.)
 
 - ⚡ Fun fact **ctrl + s is my reflex action.**
 
